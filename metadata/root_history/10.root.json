@@ -6,23 +6,14 @@
   },
   {
    "keyid": "762cb22caca65de5e9b7b6baecb84ca989d337280ce6914b6440aea95769ad93",
-   "sig": "3045022100e4899e668a8cb745d5853467f71d8fe24c9444b2023ef01609cc215d8613c83102205a329ba02f69563b35cc86102fbd024ffad127751f0a479b46ac462a17da34d6"
+   "sig": ""
   }
  ],
  "signed": {
   "_type": "root",
   "consistent_snapshot": true,
-  "expires": "2024-08-24T13:36:03Z",
+  "expires": "2024-08-24T13:37:06Z",
   "keys": {
-   "4c56de5b62fd064fc94453b680dfd3faf6a01baaab3beac296920f0ccfa22775": {
-    "keyid": "4c56de5b62fd064fc94453b680dfd3faf6a01baaab3beac296920f0ccfa22775",
-    "keytype": "ed25519",
-    "keyval": {
-     "public": "921ecc86ee91fdd3a5514023df19cd859159467764f60fc41e1eeac850351161"
-    },
-    "scheme": "ed25519",
-    "x-tuf-on-ci-keyowner": "@-repo-import"
-   },
    "762cb22caca65de5e9b7b6baecb84ca989d337280ce6914b6440aea95769ad93": {
     "keytype": "ecdsa",
     "keyval": {
@@ -52,7 +43,6 @@
   "roles": {
    "root": {
     "keyids": [
-     "4c56de5b62fd064fc94453b680dfd3faf6a01baaab3beac296920f0ccfa22775",
      "762cb22caca65de5e9b7b6baecb84ca989d337280ce6914b6440aea95769ad93"
     ],
     "threshold": 1
