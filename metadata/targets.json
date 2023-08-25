@@ -1,16 +1,12 @@
 {
  "signatures": [
   {
-   "keyid": "425b0d4b5a07f4db2be567e8d1508cd652968ab5acc4904d79740ec11d69d80f",
-   "sig": ""
-  },
-  {
    "keyid": "8f3c2794f24426014fc26adcbb8efd94411fce881fa60fc8725a899115750efa",
    "sig": ""
   },
   {
    "keyid": "762cb22caca65de5e9b7b6baecb84ca989d337280ce6914b6440aea95769ad93",
-   "sig": "3044022077ffcd160f0ec25d65bd244727618e2cd0b1355f53b2be485b7c1063a72d958602205f4b72f9787365a5f3450686eda4e58702731cd9d5e984c80e660bc6566e53c6"
+   "sig": ""
   }
  ],
  "signed": {
@@ -22,15 +18,6 @@
      "keytype": "ed25519",
      "keyval": {
       "public": "551650b8a3b806c7040c9d9fd59fd72dc9e0a968352bb5880cf3c4c546b8072c"
-     },
-     "scheme": "ed25519",
-     "x-tuf-on-ci-keyowner": "@-nobody"
-    },
-    "2012c33cdeec3317ee0cbd9de5a4141870ed28a6bd1a59282d2c8b9e4ec30392": {
-     "keyid": "2012c33cdeec3317ee0cbd9de5a4141870ed28a6bd1a59282d2c8b9e4ec30392",
-     "keytype": "ed25519",
-     "keyval": {
-      "public": "fee5147cf0a7fbbd26a523f8101bd29cbdbeeca25407d7ab7abe448176f8f144"
      },
      "scheme": "ed25519",
      "x-tuf-on-ci-keyowner": "@-nobody"
@@ -76,7 +63,7 @@
     },
     {
      "keyids": [
-      "2012c33cdeec3317ee0cbd9de5a4141870ed28a6bd1a59282d2c8b9e4ec30392"
+      "762cb22caca65de5e9b7b6baecb84ca989d337280ce6914b6440aea95769ad93"
      ],
      "name": "badgers",
      "paths": [
@@ -99,7 +86,7 @@
     }
    ]
   },
-  "expires": "2024-08-24T11:15:01Z",
+  "expires": "2024-08-24T11:16:15Z",
   "spec_version": "1.0.19",
   "targets": {
    "file1.txt": {
