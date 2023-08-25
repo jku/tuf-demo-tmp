@@ -3,14 +3,20 @@
   {
    "keyid": "63f448490147d70c0a98def45abecd792261411d14e228c2567cb5cbe4010598",
    "sig": ""
+  },
+  {
+   "keyid": "d25a176cb93581c51098fa7eac68f71866f1ace2445d0783f433bb7d9b1d9ab7",
+   "sig": ""
   }
  ],
  "signed": {
   "_type": "targets",
-  "expires": "2023-12-16T15:54:15Z",
+  "expires": "2024-08-24T10:44:36Z",
   "spec_version": "1.0.19",
   "targets": {},
-  "version": 3,
+  "version": 4,
+  "x-tuf-on-ci-expiry-period": 365,
+  "x-tuf-on-ci-signing-period": 30,
   "x-tufrepo-expiry-period": 31449600
  }
 }
