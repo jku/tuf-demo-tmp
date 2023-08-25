@@ -7,17 +7,10 @@
  ],
  "signed": {
   "_type": "targets",
-  "expires": "2024-08-24T10:44:36Z",
+  "expires": "2024-08-24T10:45:34Z",
   "spec_version": "1.0.19",
-  "targets": {
-   "files/file2.txt": {
-    "hashes": {
-     "sha256": "41c10d0f35de8842bec581404484624a68b2712e1bb590a45b4b7ea22a90f447"
-    },
-    "length": 8
-   }
-  },
-  "version": 8,
+  "targets": {},
+  "version": 9,
   "x-tuf-on-ci-expiry-period": 365,
   "x-tuf-on-ci-signing-period": 30,
   "x-tufrepo-expiry-period": 31449600
