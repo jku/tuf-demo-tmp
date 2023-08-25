@@ -6,7 +6,7 @@
   },
   {
    "keyid": "762cb22caca65de5e9b7b6baecb84ca989d337280ce6914b6440aea95769ad93",
-   "sig": "3045022021642334eaac982e8bfdf4320ede27d521131c47bda49537640226cecca33727022100919deaa18807cd7e06e4e8beed364adf8051d7a31e5a14d7790eb8d86d5ef666"
+   "sig": ""
   }
  ],
  "signed": {
@@ -18,15 +18,6 @@
      "keytype": "ed25519",
      "keyval": {
       "public": "551650b8a3b806c7040c9d9fd59fd72dc9e0a968352bb5880cf3c4c546b8072c"
-     },
-     "scheme": "ed25519",
-     "x-tuf-on-ci-keyowner": "@-nobody"
-    },
-    "63f448490147d70c0a98def45abecd792261411d14e228c2567cb5cbe4010598": {
-     "keyid": "63f448490147d70c0a98def45abecd792261411d14e228c2567cb5cbe4010598",
-     "keytype": "ed25519",
-     "keyval": {
-      "public": "556209a675af5659ff86f6d35a8ad5e5d66ae473fc5717f3b11d9166785db00a"
      },
      "scheme": "ed25519",
      "x-tuf-on-ci-keyowner": "@-nobody"
@@ -74,8 +65,8 @@
     },
     {
      "keyids": [
-      "63f448490147d70c0a98def45abecd792261411d14e228c2567cb5cbe4010598",
-      "d25a176cb93581c51098fa7eac68f71866f1ace2445d0783f433bb7d9b1d9ab7"
+      "d25a176cb93581c51098fa7eac68f71866f1ace2445d0783f433bb7d9b1d9ab7",
+      "762cb22caca65de5e9b7b6baecb84ca989d337280ce6914b6440aea95769ad93"
      ],
      "name": "demo",
      "paths": [
@@ -86,7 +77,7 @@
     }
    ]
   },
-  "expires": "2024-08-24T11:16:15Z",
+  "expires": "2024-08-24T11:17:49Z",
   "spec_version": "1.0.19",
   "targets": {
    "file1.txt": {
