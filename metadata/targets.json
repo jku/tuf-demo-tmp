@@ -45,17 +45,6 @@
      "keyids": [
       "762cb22caca65de5e9b7b6baecb84ca989d337280ce6914b6440aea95769ad93"
      ],
-     "name": "role1",
-     "paths": [
-      "files/*"
-     ],
-     "terminating": false,
-     "threshold": 1
-    },
-    {
-     "keyids": [
-      "762cb22caca65de5e9b7b6baecb84ca989d337280ce6914b6440aea95769ad93"
-     ],
      "name": "badgers",
      "paths": [
       "badgers/*"
