@@ -7,6 +7,10 @@
   {
    "keyid": "d25a176cb93581c51098fa7eac68f71866f1ace2445d0783f433bb7d9b1d9ab7",
    "sig": ""
+  },
+  {
+   "keyid": "762cb22caca65de5e9b7b6baecb84ca989d337280ce6914b6440aea95769ad93",
+   "sig": "304402207b4b9a497bc35f8e8c925b074774fbb9bee7b55920a7dc8b1c70245ff5e0e89e02203765abac2a30edbd590df556b51bff80ea5ae1a87f2ac34d813bb1890e5a96a7"
   }
  ],
  "signed": {
