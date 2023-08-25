@@ -11,83 +11,10 @@
  ],
  "signed": {
   "_type": "targets",
-  "expires": "2024-08-24T10:45:34Z",
+  "expires": "2024-08-24T10:49:50Z",
   "spec_version": "1.0.19",
-  "targets": {
-   "demo/succinctly-delegated-1.txt": {
-    "hashes": {
-     "sha256": "1e3c12e078cf6f89e4d2ca8c6a7b0bf1b83cab37adcabc5f5c15556b0584f5db"
-    },
-    "length": 31
-   },
-   "demo/succinctly-delegated-10.txt": {
-    "hashes": {
-     "sha256": "0a64240a10efd9a947ec86e50ee5a3ffcf1c4ab7ce83a43a7a904bca4078cf4f"
-    },
-    "length": 32
-   },
-   "demo/succinctly-delegated-11.txt": {
-    "hashes": {
-     "sha256": "179e440b191139818ab68c5972cbd7ecf4233c2dc68707fbc23411c3f8fa42de"
-    },
-    "length": 32
-   },
-   "demo/succinctly-delegated-12.txt": {
-    "hashes": {
-     "sha256": "f88eb9487673d6390659c80e2416490b3c12c17c733bf09294f463384feb7d5d"
-    },
-    "length": 34
-   },
-   "demo/succinctly-delegated-2.txt": {
-    "hashes": {
-     "sha256": "3dd13c5f9705611892ddcd3ec25c968595e7180bed15018abbdf08c1fd0955c9"
-    },
-    "length": 31
-   },
-   "demo/succinctly-delegated-3.txt": {
-    "hashes": {
-     "sha256": "a09755d94d18d2be663a2ea66a56cd3bb785c96142c0a70c4ca62652e6f7d7f8"
-    },
-    "length": 31
-   },
-   "demo/succinctly-delegated-4.txt": {
-    "hashes": {
-     "sha256": "6b5246f64061356f7acf47038a2616a9df8a41d35107f2913c009866057ee01a"
-    },
-    "length": 31
-   },
-   "demo/succinctly-delegated-5.txt": {
-    "hashes": {
-     "sha256": "66df9b51cae6039141e338a64dd7082b5cd9236d91b0e09765f54d20109d3e72"
-    },
-    "length": 31
-   },
-   "demo/succinctly-delegated-6.txt": {
-    "hashes": {
-     "sha256": "9183643959c6dfeae39dd035705aa53140e36348e01ffe68038c7ffe79543e64"
-    },
-    "length": 31
-   },
-   "demo/succinctly-delegated-7.txt": {
-    "hashes": {
-     "sha256": "eeed765db6d4c67580da0023c7d21f0bff568619d7c20fe80b83dca62138ac2c"
-    },
-    "length": 31
-   },
-   "demo/succinctly-delegated-8.txt": {
-    "hashes": {
-     "sha256": "4f6d413c6b9cf2c957c818d8e9266b10892e845f202c3d50bc88b8e886ec58b0"
-    },
-    "length": 31
-   },
-   "demo/succinctly-delegated-9.txt": {
-    "hashes": {
-     "sha256": "6f9e0a55079fa28e44c929d25d7c05abf9d83f417041f3190a4a666b2f30dbb0"
-    },
-    "length": 31
-   }
-  },
-  "version": 5,
+  "targets": {},
+  "version": 6,
   "x-tuf-on-ci-expiry-period": 365,
   "x-tuf-on-ci-signing-period": 30,
   "x-tufrepo-expiry-period": 31449600
