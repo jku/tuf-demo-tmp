@@ -1,10 +1,10 @@
 # TUF repository automation demo
 
-This is a demo of [TUF](https://theupdateframework.io/) repository automation
-using [TUF-on-CI](https://github.com/theupdateframework/tuf-on-ci).
+This is a live [TUF](https://theupdateframework.io/) repository, intended for
+testing and demonstrations. It's
+maintained with  [TUF-on-CI](https://github.com/theupdateframework/tuf-on-ci).
 
-TUF clients can access the repository deployed in
-https://jku.github.io/tuf-demo:
+TUF clients can access the repository in https://jku.github.io/tuf-demo:
 
 ```python
 # Example client for https://jku.github.io/tuf-demo repository
